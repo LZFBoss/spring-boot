@@ -1,1 +1,3 @@
 this is a class;
+
+test class idea;
